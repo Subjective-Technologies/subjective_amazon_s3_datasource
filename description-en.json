@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Amazon S3 intended to ingest bucket files and metadata into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Amazon S3",
-      "text": "A Subjective data source for Amazon S3. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Amazon S3 intended to ingest bucket files and metadata into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_amazon_s3_datasource/icon.svg",
         "alt": "Amazon S3 icon"
